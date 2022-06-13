@@ -594,7 +594,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "{{domain}}/quanLyphim/layLichChieu/?idphim=1",
+							"raw": "{{domain}}/quanLyphim/layLichChieu/?idphim=4",
 							"host": [
 								"{{domain}}"
 							],
@@ -606,7 +606,7 @@
 							"query": [
 								{
 									"key": "idphim",
-									"value": "1"
+									"value": "4"
 								}
 							]
 						}
@@ -694,13 +694,13 @@
 					},
 					"response": [
 						{
-							"id": 8,
-							"taiKhoan": "nguoidung5",
+							"id": 3,
+							"taiKhoan": "nguoidung2",
 							"dienThoai": "0985034354",
 							"email": "quanglampro@gmail.com",
 							"ngaySinh": "2002-08-26T00:00:00.000Z",
 							"loaiNguoiDung": "USER",
-							"hoTen": "ly tam hoang"
+							"hoTen": "ly tam hoan"
 						}
 					]
 				},
@@ -931,7 +931,7 @@
 							"id": 13,
 							"duongDan": "localhost:3000/public\\images\\avatars\\1655011619923.jpg",
 							"trangThai": true,
-							"idNguoiDung": 2
+							"idNguoiDung": 9
 						}
 					]
 				},
